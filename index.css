@@ -1,0 +1,14 @@
+input[name="nome"]{
+    font-size: large;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid;
+}
+#submit{
+    font-size: .8em;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin: 20px;
+    cursor: pointer;
+}
